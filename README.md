@@ -20,3 +20,6 @@ DeepWalk deploys a truncated random walk to sample node sequences, and uses the 
 
 ## Heterogeneous 
 ### metapath2vec
+- no edge semantics considered
+
+## Edge Semantics Considered
